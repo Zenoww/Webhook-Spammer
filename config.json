@@ -1,0 +1,11 @@
+{
+    "token": "mfa.5u5cMVYw-NlY3_P6fAe8KDG22dCJvBtEAHmJeCYElg6w8tjHjqPQnf_cO6gVg5lcS0kjDAuFh_OB6Y7Njswk",
+    "serv": "846443880634122313",
+    "webhook": {
+        "name": "Name du Webhook",
+        "avatar": "",
+        "spamMsg": "Spam message"
+    },
+    "ChannellMsgCount": "1000",
+    "sleepMS": "1000"
+}
